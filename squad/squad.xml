@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="Goons">
+	<name>Arma Goons</name>
+	<email>N/A</email>
+	<web>http://www.somethingawful.com</web>
+	<picture>topgoonwings.paa</picture>
+	<title>Arma makes you stupid.</title>
+	<member id="76561197998942494" nick="AirborneNinja">
+		<name>AirborneNinja</name>
+		<email>da.lowry@yahoo.com</email>
+		<icq>N/A</icq>
+		<remark>Fuck this gun</remark>
+	</member>
+</squad>
